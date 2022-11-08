@@ -48,7 +48,15 @@ public class Persona {
      public String getGenero(){
          return this.Genero;
      }
-        
+     
+     public void imprimirInfo(){
+         System.out.println(Edad);
+         System.out.println(Nombre);
+         System.out.println(Apellido);
+         System.out.println(Genero);
+     }
+     
+     
      
 }
 
