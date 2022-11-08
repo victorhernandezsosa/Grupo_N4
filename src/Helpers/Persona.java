@@ -48,9 +48,7 @@ public class Persona {
      public String getGenero(){
          return this.Genero;
      }
-     
-
-     
+        
      
 }
 
