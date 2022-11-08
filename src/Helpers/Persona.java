@@ -4,10 +4,7 @@
  */
 package Helpers;
 
-/**
- *
- * @author ASUS
- */
+
 public class Persona {
      private int Edad;
      private String Nombre;
