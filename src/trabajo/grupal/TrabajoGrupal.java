@@ -1,7 +1,7 @@
 
 package trabajo.grupal;
 
-import helpers.Doctor;
+import Helpers.Doctor;
 
 /**
  *
