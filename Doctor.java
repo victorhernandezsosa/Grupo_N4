@@ -1,5 +1,5 @@
 
-package helpers;
+package Helpers;
 
 
 public class Doctor extends Persona {
