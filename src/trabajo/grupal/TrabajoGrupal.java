@@ -17,7 +17,6 @@ public class TrabajoGrupal {
         
         System.out.println("Doctor");
         
-        
         Doctor doctor = new Doctor();
         
         doctor.imprimirInfo();
