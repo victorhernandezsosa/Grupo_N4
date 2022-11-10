@@ -11,9 +11,9 @@ package helpers;
 public class Doctor extends Persona {
 
     public Doctor() {
-    setEdad("18");
+    setEdad(18);
     setNombre("Princess");
-    setApellido("Smith)";
+    setApellido("Smith");
     setGenero("Femenino");
     }
    
