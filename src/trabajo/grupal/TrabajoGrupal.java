@@ -1,7 +1,7 @@
 
 package trabajo.grupal;
 
-import Helpers.Doctor;
+import helpers.Doctor;
 
 /**
  *
@@ -16,6 +16,7 @@ public class TrabajoGrupal {
         // TODO code application logic here
         
         System.out.println("Doctor");
+        System.out.println(" ");
         
         Doctor doctor = new Doctor();
         
