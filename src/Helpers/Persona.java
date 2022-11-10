@@ -44,10 +44,10 @@ public class Persona {
      }
      
      public void imprimirInfo(){
-         System.out.println(Edad);
-         System.out.println(Nombre);
-         System.out.println(Apellido);
-         System.out.println(Genero);
+         System.out.println("Edad: "+Edad);
+         System.out.println("Nombre: "+Nombre);
+         System.out.println("Apellido: "+Apellido);
+         System.out.println("Genero: "+Genero);
      }
 }
 
