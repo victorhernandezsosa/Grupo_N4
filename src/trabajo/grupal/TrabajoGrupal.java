@@ -2,6 +2,7 @@
 package trabajo.grupal;
 
 import Helpers.Doctor;
+import Helpers.Deportista;
 
 
 public class TrabajoGrupal {
