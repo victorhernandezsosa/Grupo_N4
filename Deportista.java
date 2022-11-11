@@ -11,9 +11,9 @@ package helpers;
 public class Deportista extends Persona{
 
     public Deportista() {
-    setEdad("19");
+    setEdad(19);
     setNombre("Victor");
-    setApellido("Hernandez)";
+    setApellido("Hernandez");
     setGenero("Masculino");
     }
    
