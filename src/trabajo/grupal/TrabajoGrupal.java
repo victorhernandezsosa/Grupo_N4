@@ -19,7 +19,7 @@ public class TrabajoGrupal {
         doctor.imprimirInfo();
         
         System.out.println(" ");
-        System.out.println("Doctor");
+        System.out.println("Deportista");
         System.out.println(" ");
         
         deportista.imprimirInfo();
